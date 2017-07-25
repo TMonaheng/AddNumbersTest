@@ -13,7 +13,7 @@ namespace AddNumbersTest
             int numb1 = 2;
             int numb2 = 3;
             int ExcpectedSum = 0;
-            ExcpectedSum += numb1 + numb2;
+            //ExcpectedSum += numb1 + numb2;
 
             ///act
             var addtwomubers = new Add(numb1, numb2);
