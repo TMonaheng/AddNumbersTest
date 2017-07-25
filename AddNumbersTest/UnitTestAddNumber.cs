@@ -12,7 +12,7 @@ namespace AddNumbersTest
             //set
             int numb1 = 2;
             int numb2 = 3;
-            int ExcpectedSum = 0;
+            int ExcpectedSum = 5;
             //ExcpectedSum += numb1 + numb2;
 
             ///act
